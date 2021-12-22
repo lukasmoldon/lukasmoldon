@@ -1,10 +1,16 @@
-### Hi there 👋
+<a href="https://ieeexplore.ieee.org/document/9402097">
+  <p align="center">
+    <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=lukasmoldon&count_private=true&theme=tokyonight&hide_border=true&hide=prs&bg_color=00000000">
+  </p>
+  <p align="center">
+    <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=lukasmoldon&hide_border=true&theme=tokyonight&layout=compact&bg_color=00000000">
+  </p>
+  <p align="center">
+    <img src ="https://github-readme-streak-stats.herokuapp.com?user=lukasmoldon&theme=tokyonight&hide_border=true&background=FFFFFF00">
+  </p>
+</a>
 
 <!--
-**lukasmoldon/lukasmoldon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
