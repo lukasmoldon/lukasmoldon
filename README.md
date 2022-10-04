@@ -9,6 +9,7 @@
 
 <p align="right">
   <a href="https://linkedin.com/in/lukas-moldon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lukas-moldon" height="30" width="40" /></a>
+  <a href="https://www.xing.com/profile/lukas_moldon/" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/xing-icon.svg" alt="Lukas-Moldon" height="30" width="40" /></a>
   <a href="https://scholar.google.com/citations?hl=en&user=Vv4YuEEAAAAJ" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg" alt="Vv4YuEEAAAAJ" height="30" width="40" /></a>
   <a href="https://www.youtube.com/channel/UCt1GMPr65GJ-h-cRxQZhHuw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="uct1gmpr65gj-h-crxqzhhuw" height="30" width="40" /></a>
   <a href="https://twitter.com/lukasmoldon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lukasmoldon" height="30" width="40" /></a>
