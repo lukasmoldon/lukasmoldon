@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lukas.</h1>
-<h3 align="center">With experience and strong interest in Data Science and Machine Learning, I recently started as a Junior Data Scientist at Deichmann Digital. Previously I finished my Computer Science master degree at RWTH Aachen University. During my studies I worked as a student research assistant at CSSH RWTH.</h3>
+<h3 align="center">With experience and strong interest in Data Science and Machine Learning, I am working as a Junior Data Scientist at Deichmann Digital. Previously I finished my Computer Science master degree at RWTH Aachen University. During my studies I worked as a student research assistant at CSSH RWTH.</h3>
 
 <a href="https://github.com/lukasmoldon">
   <p align="center">
@@ -12,7 +12,7 @@
   <a href="https://www.xing.com/profile/lukas_moldon/" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/xing-icon.svg" alt="Lukas-Moldon" height="30" width="40" /></a>
   <a href="https://scholar.google.com/citations?hl=en&user=Vv4YuEEAAAAJ" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg" alt="Vv4YuEEAAAAJ" height="30" width="40" /></a>
   <a href="https://www.youtube.com/@lukasmoldon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="uct1gmpr65gj-h-crxqzhhuw" height="30" width="40" /></a>
-  <a href="https://twitter.com/lukasmoldon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lukasmoldon" height="30" width="40" /></a>
+  <a href="https://twitter.com/lukasmoldon" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/5/53/X_logo_2023_original.svg" alt="lukasmoldon" height="30" width="40" /></a>
   <a href="https://www.researchgate.net/profile/Lukas-Moldon" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/5/5e/ResearchGate_icon_SVG.svg" alt="Lukas-Moldon" height="30" width="40" /></a>
 </p>
 
