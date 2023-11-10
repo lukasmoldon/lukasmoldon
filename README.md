@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lukas.</h1>
-<h3 align="center">With experience and strong interest in Data Science and Machine Learning, I am working as a Junior Data Scientist at Deichmann Digital. Previously I finished my Computer Science master degree at RWTH Aachen University. During my studies I worked as a student research assistant at CSSH RWTH.</h3>
+<h3 align="center">With experience and strong interest in Data Science and Machine Learning, I am working as a Junior Data Scientist at Deichmann Digital. Previously, I finished my Computer Science master degree at RWTH Aachen University. During my studies I worked as a student research assistant at CSSH RWTH.</h3>
 
 <a href="https://github.com/lukasmoldon">
   <p align="center">
